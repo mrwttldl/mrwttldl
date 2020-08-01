@@ -8,7 +8,7 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" ></code>
 <code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-
+<code><img src="https://www.pinclipart.com/maxpin/iioxbJw/"></code>
 
 
 ## 🧠 Know
