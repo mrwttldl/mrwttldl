@@ -1,4 +1,4 @@
-### Hello world 🙋🏻‍♀️
+### Hello world! 🙋🏻‍♀️
 My name is Merve Tatlıdil, I am a computer engineer.
 
 ## 👩🏻‍💻 I'm currently working on
