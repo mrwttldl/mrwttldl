@@ -29,7 +29,5 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 
 ## 📒 My Blog
-
 [![Medium Badge](https://img.shields.io/badge/Merve Tatlıdil-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@mervetatlidil)
 
-[![Kaggle Badge](https://img.shields.io/badge/Merve Tatlıdil-Kaggle-blue?style=for-the-badge&logo=medium)](https://www.kaggle.com/merve199/account)
