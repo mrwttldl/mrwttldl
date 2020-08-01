@@ -9,7 +9,7 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <code><img src="https://geo-python.github.io/site/_images/pandas_logo.png" height="40" ></code>
 <code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="40" ></code>
 <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" ></code>
-
+<img alt="Image for post" class="eg px s t u ds ai io" width="480" height="231" src="https://miro.medium.com/max/600/1*jbFlelTa17_ZJk5pv4-32w.jpeg" srcset="https://miro.medium.com/max/345/1*jbFlelTa17_ZJk5pv4-32w.jpeg 276w, https://miro.medium.com/max/600/1*jbFlelTa17_ZJk5pv4-32w.jpeg 480w" height="40" >
 
 
 ## 🧠 Know
