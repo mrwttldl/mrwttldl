@@ -29,5 +29,11 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 
 ## 📒 My Blog
+I am writing about data science subjects. You can access my articles from my medium account :
+
 [![Medium Badge](https://img.shields.io/badge/MerveTatlıdil-Medium-green?style=for-the-badge&logo=medium)](https://medium.com/@mervetatlidil)
+
+## 📫 How to reach me
+My accounts you can contact me :
+
 
