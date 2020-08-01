@@ -36,4 +36,10 @@ I am writing about data science subjects. You can access my articles from my med
 ## 📫 How to reach me
 My accounts you can contact me :
 
+[![Linkedin Badge](https://img.shields.io/badge/MerveTatlıdil-follow%20on%20linkedin-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nmervetatlidil/)
+
+[![Twitter Badge](https://img.shields.io/badge/MerveTatlıdil-follow%20on%20twitter-yellow?style=for-the-badge&logo=twitter)](https://twitter.com/MerveTatlidil)
+
+[![Kaggle Badge](https://img.shields.io/badge/MerveTatlıdil-follow%20on%20kaggle-blue?style=for-the-badge&logo=linkedin)](https://www.kaggle.com/merve199/account)
+
 
