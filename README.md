@@ -13,7 +13,7 @@ My name is Merve Tatlıdil, I am a computer engineer.
 ## 🧠 Know
 
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img src="https://commons.wikimedia.org/wiki/Category:Programming_language_logos#/media/File:Csharp_Logo.png"></code>
+<code><img src="https://commons.wikimedia.org/wiki/Category:Programming_language_logos#/media/File:C_Sharp_logo.svg"></code>
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
