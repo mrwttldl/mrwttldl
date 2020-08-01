@@ -40,6 +40,6 @@ My accounts you can contact me :
 
 [![Twitter Badge](https://img.shields.io/badge/MerveTatlıdil-follow%20on%20twitter-yellow?style=for-the-badge&logo=twitter)](https://twitter.com/MerveTatlidil)
 
-[![Kaggle Badge](https://img.shields.io/badge/MerveTatlıdil-follow%20on%20kaggle-blue?style=for-the-badge&logo=linkedin)](https://www.kaggle.com/merve199/account)
+[![Kaggle Badge](https://img.shields.io/badge/MerveTatlıdil-follow%20on%20kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/merve199/account)
 
 
