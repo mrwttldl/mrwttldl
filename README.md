@@ -28,7 +28,8 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <img src="https://opendatascience.com/wp-content/uploads/2018/10/K2.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="40" >
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 
-## 💬 Ask me about
+## 🗓 My Blog
 
-<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code> 
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="40" />
+[![Medium Badge](https://img.shields.io/badge/Merve Tatlıdil-Medium-green?style=for-the-badge&logo=medium)](https://medium.com/@mervetatlidil)
+
+[![Medium Badge](https://img.shields.io/badge/Merve Tatlıdil-Kaggle-blue?style=for-the-badge&logo=medium)](https://www.kaggle.com/merve199/account)
