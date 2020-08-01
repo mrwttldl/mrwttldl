@@ -14,12 +14,12 @@ My name is Merve Tatlıdil, I am a computer engineer.
 
 ## 🧠 Know
 
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="32" />  <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" /> <img src="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="C Programming Icon - C Programming Language Logo@pngkit.com" height="32" >  <img src="https://www.pngkit.com/png/detail/787-7876071_tableau-tableau-software.png" alt="Tableau - Tableau Software@pngkit.com" height="32" > <img src="https://www.pngkit.com/png/detail/383-3838914_mongo-db-design-mongodb-logo-mongodb.png" alt="Mongo Db Design - Mongodb Logo Mongodb@pngkit.com" height="32" > <img src="https://www.pngkit.com/png/detail/142-1422061_oracle-database-logo-png-download-logo-oracle-sql.png" alt="Oracle Database Logo Png Download - Logo Oracle Sql Png@pngkit.com" height="32" > 
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="35" />  <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="35" /> <img src="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="C Programming Icon - C Programming Language Logo@pngkit.com" height="35" >  <img src="https://www.pngkit.com/png/detail/787-7876071_tableau-tableau-software.png" alt="Tableau - Tableau Software@pngkit.com" height="35" > <img src="https://www.pngkit.com/png/detail/383-3838914_mongo-db-design-mongodb-logo-mongodb.png" alt="Mongo Db Design - Mongodb Logo Mongodb@pngkit.com" height="35" > <img src="https://www.pngkit.com/png/detail/142-1422061_oracle-database-logo-png-download-logo-oracle-sql.png" alt="Oracle Database Logo Png Download - Logo Oracle Sql Png@pngkit.com" height="35" > 
 
 
 
 ## 📚 Learning
 
-<img src="https://www.pngkit.com/png/detail/519-5198030_applitools-on-twitter-selenium-webdriver-icon.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="28" >
+<img src="https://www.pngkit.com/png/detail/519-5198030_applitools-on-twitter-selenium-webdriver-icon.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="30" >
 
 
