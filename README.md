@@ -30,4 +30,5 @@ My name is Merve Tatlıdil, I am a computer engineer.
 
 ## 💬 Ask me about
 
-
+<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code> 
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="40" />
