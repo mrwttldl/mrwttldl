@@ -32,4 +32,4 @@ My name is Merve Tatlıdil, I am a computer engineer.
 
 [![Medium Badge](https://img.shields.io/badge/Merve Tatlıdil-Medium-green?style=for-the-badge&logo=medium)](https://medium.com/@mervetatlidil)
 
-[![Medium Badge](https://img.shields.io/badge/Merve Tatlıdil-Kaggle-blue?style=for-the-badge&logo=medium)](https://www.kaggle.com/merve199/account)
+[![Kaggle Badge](https://img.shields.io/badge/Merve Tatlıdil-Kaggle-blue?style=for-the-badge&logo=medium)](https://www.kaggle.com/merve199/account)
