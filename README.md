@@ -20,6 +20,6 @@ My name is Merve Tatlıdil, I am a computer engineer.
 
 ## 📚 Learning
 
-<code><img src="http://www.softwaretestingstudio.com/wp-content/uploads/2016/07/Selenium-Logo.jpg" height="25" ></code>
+<img src="https://www.pngkit.com/png/detail/519-5198030_applitools-on-twitter-selenium-webdriver-icon.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="25" >
 
 
