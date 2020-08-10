@@ -20,6 +20,7 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg"></a></code>
 
 ## 📚 Learning
 
