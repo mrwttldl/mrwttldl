@@ -7,8 +7,7 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" ></code>
 <code><img src="https://geo-python.github.io/site/_images/pandas_logo.png" height="40" ></code>
-<code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="40" ></code>
-<code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" ></code>
+<img src="https://www.pngkit.com/png/detail/142-1422061_oracle-database-logo-png-download-logo-oracle-sql.png" alt="Oracle Database Logo Png Download - Logo Oracle Sql Png@pngkit.com" height="40" > 
 <code><img src="https://okpanico.files.wordpress.com/2011/05/logo2.png" height="25" ></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 
@@ -20,7 +19,8 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></a></code>
-
+<code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="40" ></code>
+<code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" ></code>
 
 ## 📚 Learning
 
