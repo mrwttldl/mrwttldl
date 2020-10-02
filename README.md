@@ -29,7 +29,7 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <img src="https://opendatascience.com/wp-content/uploads/2018/10/K2.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="40" >
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg"></a></code>
-<code><a href="" target="_blank"><img height="40" src="https://www.technopat.net/wp-content/uploads/2018/09/MS-SQL-Server.jpg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.technopat.net/wp-content/uploads/2018/09/MS-SQL-Server.jpg"></a></code>
 
 ## 📒 My Blog
 I am writing about data science subjects. You can access my articles from my medium account :
