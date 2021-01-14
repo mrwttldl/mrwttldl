@@ -36,6 +36,7 @@ I am writing about data science subjects. You can access my articles from my med
 
 [![Medium Badge](https://img.shields.io/badge/MerveTatlıdil-Medium-green?style=for-the-badge&logo=medium)](https://medium.com/@mervetatlidil)
 
+* [Python Kütüphaneleri](https://medium.com/datarunner/python-kütüphaneleri-5cbf95d5a347)
 * [Numpy Kütüphanesi](https://medium.com/datarunner/numpy-k%C3%BCt%C3%BCphanesi-f78d6cc098fa)
 * [Python Veri Yapıları](https://medium.com/datarunner/python-veri-yap%C4%B1lar%C4%B1-d25133f2ad75)
 * [Veri Bilimi Kaynakları](https://medium.com/@mervetatlidil/veri-bilimi-kaynaklar%C4%B1-b5c4b40dfee3)
@@ -43,6 +44,7 @@ I am writing about data science subjects. You can access my articles from my med
 * [Makine Öğrenmesi(Machine Learning)](https://medium.com/@mervetatlidil/makine-%C3%B6%C4%9Frenmesi-machine-learning-8960166d36d8)
 * [Yapay Zeka(Artificial Intelligence)](https://medium.com/@mervetatlidil/yapay-zeka-artificial-intelligence-d11c5b75683b)
 * [Veri Bilimi (Data Science)](https://medium.com/@mervetatlidil/data-science-3f6af07d0d95)
+
 
 ## 📫 How to reach me
 My accounts you can contact me :
