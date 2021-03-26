@@ -21,7 +21,8 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></a></code>
 <code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="40" ></code>
 <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" ></code>
-<code><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F106810506%2F122704668949%2F1%2Foriginal.20200723-082744?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=258%2C0%2C951%2C951&s=41803fb890fe4a9edf84bc3f2531cf52" height="60" ></code>
+<code><img src="hhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fhub.knime.com%2Fknime%2Fspaces%2FExamples%2Flatest%2F04_Analytics%2F11_Optimization%2F08_Model_Optimization_and_Selection&psig=AOvVaw1GjoMa7KP1UBWncgFS-Ybk&ust=1616829568994000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDSlNa1ze8CFQAAAAAdAAAAABAY![image](https://user-images.githubusercontent.com/54619313/112596753-46ec0200-8e1d-11eb-814e-ab56905da543.png)
+" height="60" ></code>
 
 ## 📚 Learning
 
