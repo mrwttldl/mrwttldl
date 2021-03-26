@@ -21,7 +21,7 @@ My name is Merve Tatlıdil, I am a computer engineer.
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></a></code>
 <code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="40" ></code>
 <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" ></code>
-<code><img src="https://webmaster.kitchen/wp-content/uploads/knime.png" height="60" ></code>
+<code><img src="https://webmaster.kitchen/wp-content/uploads/knime.png" height="40" ></code>
 
 ## 📚 Learning
 
