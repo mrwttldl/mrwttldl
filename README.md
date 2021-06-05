@@ -35,6 +35,7 @@ I am writing about data science subjects. You can access my articles from my med
 
 [![Medium Badge](https://img.shields.io/badge/MerveTatlıdil-Medium-green?style=for-the-badge&logo=medium)](https://medium.com/@mervetatlidil)
 
+* [Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama Projesi](https://mervetatlidil.medium.com/kural-tabanlı-sınıflandırma-ile-potansiyel-müşteri-getirisi-hesaplama-77a0c284bbda)
 * [Python Kütüphaneleri](https://medium.com/datarunner/python-kütüphaneleri-5cbf95d5a347)
 * [Numpy Kütüphanesi](https://medium.com/datarunner/numpy-k%C3%BCt%C3%BCphanesi-f78d6cc098fa)
 * [Python Veri Yapıları](https://medium.com/datarunner/python-veri-yap%C4%B1lar%C4%B1-d25133f2ad75)
