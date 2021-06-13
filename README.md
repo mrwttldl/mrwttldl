@@ -35,6 +35,7 @@ I am writing about data science subjects. You can access my articles from my med
 
 [![Medium Badge](https://img.shields.io/badge/MerveTatlıdil-Medium-green?style=for-the-badge&logo=medium)](https://medium.com/@mervetatlidil)
 
+* [Association Öğrenme Kuralı ile Recommender Sistem Projesi](https://mervetatlidil.medium.com/association-öğrenme-kuralı-ile-recommender-sistem-projesi-962240f33d79)
 * [CRM Analitiği — RFM Analizi ile Müşteri Segmentasyonu](https://mervetatlidil.medium.com/crm-analitiği-rfm-analiziyle-müşteri-segmentasyonu-19208e5f4fc9)
 * [Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama Projesi](https://mervetatlidil.medium.com/kural-tabanlı-sınıflandırma-ile-potansiyel-müşteri-getirisi-hesaplama-77a0c284bbda)
 * [Python Kütüphaneleri](https://medium.com/datarunner/python-kütüphaneleri-5cbf95d5a347)
