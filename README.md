@@ -1,5 +1,5 @@
 ### Hello world! 🙋🏻‍♀️
-My name is Merve Tatlıdil, I am a Computer Engineer. I'm a Data Science master student at Özyeğin University.
+My name is Merve Tatlıdil, I am a Computer Engineer.:woman_technologist: I'm a Data Science master student at Özyeğin University.:books:
 
 ## 👩🏻‍💻 I'm currently working on
 
