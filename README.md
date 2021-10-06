@@ -13,6 +13,7 @@ My name is Merve Tatlıdil, I am a Computer Engineer :woman_technologist: I'm a 
 
 ## ✅ Know
 
+<code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsereviso.com%2Fpower-bi-brief-overview%2F&psig=AOvVaw2fVNv78BsCw8kO4qGuCAaL&ust=1633595267708000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKja5IewtfMCFQAAAAAdAAAAABAD" height="40" ></code>
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="40" />  <img src="https://berkarat.com/wp-content/uploads/2018/10/c-logo.png" height="40" /> <img src="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="C Programming Icon - C Programming Language Logo@pngkit.com" height="40" >  <img src="https://www.pngkit.com/png/detail/787-7876071_tableau-tableau-software.png" alt="Tableau - Tableau Software@pngkit.com" height="40" >  <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></a></code>
