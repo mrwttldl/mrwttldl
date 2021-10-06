@@ -4,7 +4,6 @@ My name is Merve Tatlıdil, I am a Computer Engineer :woman_technologist: I'm a 
 ## 👩🏻‍💻 I'm currently working on
 
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
-<code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsereviso.com%2Fpower-bi-brief-overview%2F&psig=AOvVaw2fVNv78BsCw8kO4qGuCAaL&ust=1633595267708000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKja5IewtfMCFQAAAAAdAAAAABAD" ></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" ></code>
 <code><img src="https://geo-python.github.io/site/_images/pandas_logo.png" height="40" ></code>
