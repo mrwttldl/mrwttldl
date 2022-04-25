@@ -35,6 +35,9 @@ I am writing about data science subjects. You can access my articles from my med
 
 [![Medium Badge](https://img.shields.io/badge/MerveTatlıdil-Medium-green?style=for-the-badge&logo=medium)](https://medium.com/@mervetatlidil)
 
+* [Çevik Ebeveynlik](https://medium.com/seturtech/çevik-ebeveynlik-bb7d059f595e)
+* [Zamanın önünde hareket edenler](https://medium.com/seturtech/zamanın-önünde-hareket-edenler-f213c5afc602)
+* [Data Transformation: One-Hot & Label Encoding](https://medium.com/@mervetatlidil/data-transformation-one-hot-label-encoding-6b45a69ba86c)
 * [A/B Testi Nedir? A/B testi uygulaması yapalım](https://mervetatlidil.medium.com/a-b-testi-nedir-a-b-testi-uygulaması-yapalım-d47f6c40b983)
 * [Tavsiye Sistemleri Nedir? - Hybrid Tavsiye Sistemi Projesi Yapalım](https://mervetatlidil.medium.com/tavsiye-sistemleri-nedir-hybrid-tavsiye-sistemi-projesi-yapalım-eb41d36d1cc3)
 * [Association Öğrenme Kuralı ile Recommender Sistem Projesi](https://mervetatlidil.medium.com/association-öğrenme-kuralı-ile-recommender-sistem-projesi-962240f33d79)
